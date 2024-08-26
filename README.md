@@ -1,5 +1,5 @@
 # Register_Vikunja
-Autotest that creates an account with a username having 2 characters using Unit Test Framework.
+Autotest that creates an account with a username having 2 characters using Unit Test Framework.(Along with the step explanation).
 
 import unittest
 from selenium import webdriver
